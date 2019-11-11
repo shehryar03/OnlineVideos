@@ -3,8 +3,8 @@ public class Arrays2d {
 
 	public static void main(String[] args) 
 	{
-//		int a [] = {1,2,3,4};
-//		for (int j:a) 
+//		int a [] = {1,2,3,4}; 
+//		for (int j:a) // Foreach loop for simple array
 //		{
 //			System.out.print(j);
 //			
