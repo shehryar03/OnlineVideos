@@ -1,7 +1,7 @@
 class Calc 
 {
 		public int add(int ... n) // Will be used when you don't know how much values will be passed in the method.
-		{
+		{						  // Variable Length Arguments.
 			int sum = 0;
 			for (int i : n)
 			{
