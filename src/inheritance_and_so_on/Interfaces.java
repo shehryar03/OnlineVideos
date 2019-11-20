@@ -30,7 +30,7 @@ class Zuhaib
 		public void display(Shehryar s)
 		{
 			s.print();
-		}
+		} 
 		
 	
 	}
