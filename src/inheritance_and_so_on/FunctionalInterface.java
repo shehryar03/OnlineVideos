@@ -1,8 +1,10 @@
 package inheritance_and_so_on;
 /* There are 3 types of Interfaces
  * 1. Normal (may have multiple methods)
- * 2. Functional Interface (Allows only one method) It allows the use of Lambda Expression - Derived from Scala
+ * 2. Functional Interface (Allows only one abstract method) It allows the use of Lambda Expression - 
+ * Derived from Scala.
  * 3. Marked Interface
+ * In Functional Interface we can have multiple methods but it only allows one abstract method.
  * */
 
 interface H
