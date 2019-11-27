@@ -17,8 +17,13 @@ public class BufferReaderException
 	{
 		int n = 0;
 		System.out.println("Enter a number");
-		BufferedReader br = null;
-		try 
+		
+		try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) // Resource in Try 
+		// no need of finally in this way as we have resource in try.
+		{
+			n = Integer.parseInt(br.readLine());
+		}
+		/*try 
 		{
 		br = new BufferedReader(new InputStreamReader(System.in));
 		n = Integer.parseInt(br.readLine());
@@ -30,7 +35,7 @@ public class BufferReaderException
 		finally
 		{
 			br.close(); // To close the resource stream not sure about this
-		}
+		}*/
 		System.out.println(n);
 
 	}
