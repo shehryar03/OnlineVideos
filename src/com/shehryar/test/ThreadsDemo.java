@@ -1,6 +1,6 @@
 package com.shehryar.test;
 /* There are two ways to create a Thread
- * 1. By extending Thread Class Run() method.
+ * 1. By extending Class Thread Run() method is used.
  * 2. By implementing Runnable Interface. Supports multiple inheritance
  */
 class Samsung extends Thread
