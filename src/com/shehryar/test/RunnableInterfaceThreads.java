@@ -32,7 +32,7 @@ public class RunnableInterfaceThreads {
 	{
 		Runnable s = new S();
 		Runnable a = new A();
-		Thread t1 = new Thread(s); // Thread object must for Runnable Interface. instead of s.run();
+		Thread t1 = new Thread(); // Thread object must for Runnable Interface. instead of s.run();
 		Thread t2 = new Thread(a);
 		t1.start();
 		try {Thread.sleep(100);} catch(Exception e) {}
