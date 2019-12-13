@@ -19,7 +19,7 @@ public class CollectionClass {
 	{
 		System.out.println(values.get(i));
 	}*/
-	Comparator<Integer> c = (Integer i, Integer j) -> i%10>j%10?1:-1;
+	Comparator<Integer> c = (Integer i, Integer j) -> i%10>j%10?1:-1; // Lambda Expression
 	Collections.sort(values, c);
 	for (Object o: values)
 	{
