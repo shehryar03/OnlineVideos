@@ -1,8 +1,9 @@
 public class ArithematicOperators {
     /*
-    Arithematic
-
-
+    Arithmetic +,-,*,/,%
+    Bitwise
+    Relational
+    Logical
     */
 
     public static void main(String[] args)
@@ -17,6 +18,9 @@ public class ArithematicOperators {
          */
         m = n++;
         //m = ++n;
+        
+        n += m; // n = n + m
+        n += 3; // n = n + 3
         System.out.print(m); // 4
         System.out.print(n); // 5
 
