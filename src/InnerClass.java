@@ -1,3 +1,7 @@
+/* Q. Why we need an Inner Class instead we can make another separate class to achieve our purpose?
+ * A. Sometimes there is a requirement Its only used when with the outer class to full fill the purpose
+ * ONLY PURPOSE IS TO WORK WITH OUTER CLASS. 
+ * */
 class Outer 
 {
 	int a;
