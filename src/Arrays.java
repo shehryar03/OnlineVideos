@@ -18,7 +18,7 @@ public class Arrays {
 	{
 	
 		int nums[] =  {1,2,3,4};
-		int nums1[] = new int[4]; // In Java we need to mention new while creating an array as Array is an object in Java. 
+		int nums1[] = new int[4];// In Java we need to mention new while creating an array as Array is an object in Java. 
 		nums1[0]=8;
 		nums1[1]=18;
 		nums1[2]=28;
