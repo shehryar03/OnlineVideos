@@ -1,5 +1,5 @@
 public class ArithematicOperators {
-    /* Testing the Shehryar branch
+    /* 
     Arithmetic +,-,*,/,%
     Bitwise
     Relational 
