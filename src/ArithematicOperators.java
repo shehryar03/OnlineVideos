@@ -4,8 +4,11 @@ public class ArithematicOperators {
     Bitwise
     Relational 
 <<<<<<< HEAD
+<<<<<<< HEAD
     Logical //
 =======
+=======
+>>>>>>> branch 'master' of https://github.com/shehryar03/OnlineVideos.git
     Logical
 >>>>>>> branch 'master' of https://github.com/shehryar03/OnlineVideos.git
     */
