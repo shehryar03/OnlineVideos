@@ -1,16 +1,8 @@
 public class ArithematicOperators {
-    /* 
+    /* revision 1
     Arithmetic +,-,*,/,%
     Bitwise
     Relational 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    Logical //
-=======
-=======
->>>>>>> branch 'master' of https://github.com/shehryar03/OnlineVideos.git
-    Logical
->>>>>>> branch 'master' of https://github.com/shehryar03/OnlineVideos.git
     */
 
     public static void main(String[] args)
