@@ -2,7 +2,7 @@ public class ArithematicOperators {
     /*
     Arithmetic +,-,*,/,%
     Bitwise
-    Relational
+    Relational //
     Logical
     */
 
