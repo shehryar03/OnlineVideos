@@ -3,7 +3,7 @@ public class ArithematicOperators {
     Arithmetic +,-,*,/,%
     Bitwise
     Relational 
-    Logical 
+    Logical //
     */
 
     public static void main(String[] args)
