@@ -1,9 +1,13 @@
 public class ArithematicOperators {
-    /*
+    /* Testing the Shehryar branch
     Arithmetic +,-,*,/,%
     Bitwise
     Relational 
+<<<<<<< HEAD
     Logical //
+=======
+    Logical
+>>>>>>> branch 'master' of https://github.com/shehryar03/OnlineVideos.git
     */
 
     public static void main(String[] args)
